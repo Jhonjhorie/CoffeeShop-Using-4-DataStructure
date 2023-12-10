@@ -1,0 +1,15 @@
+C:\Users\jhonj\source\repos\CoffeeShop(DataStracture)\CoffeeShop(DataStracture)\bin\Debug\CoffeeShop(DataStracture).exe.config
+C:\Users\jhonj\source\repos\CoffeeShop(DataStracture)\CoffeeShop(DataStracture)\bin\Debug\CoffeeShop(DataStracture).exe
+C:\Users\jhonj\source\repos\CoffeeShop(DataStracture)\CoffeeShop(DataStracture)\bin\Debug\CoffeeShop(DataStracture).pdb
+C:\Users\jhonj\source\repos\CoffeeShop(DataStracture)\CoffeeShop(DataStracture)\bin\Debug\CoffeeShop(DataStracture).xml
+C:\Users\jhonj\source\repos\CoffeeShop(DataStracture)\CoffeeShop(DataStracture)\obj\Debug\CoffeeShop(DataStracture).vbproj.AssemblyReference.cache
+C:\Users\jhonj\source\repos\CoffeeShop(DataStracture)\CoffeeShop(DataStracture)\obj\Debug\CoffeeShop_DataStracture_.Form1.resources
+C:\Users\jhonj\source\repos\CoffeeShop(DataStracture)\CoffeeShop(DataStracture)\obj\Debug\CoffeeShop_DataStracture_.Resources.resources
+C:\Users\jhonj\source\repos\CoffeeShop(DataStracture)\CoffeeShop(DataStracture)\obj\Debug\CoffeeShop(DataStracture).vbproj.GenerateResource.cache
+C:\Users\jhonj\source\repos\CoffeeShop(DataStracture)\CoffeeShop(DataStracture)\obj\Debug\CoffeeShop(DataStracture).vbproj.CoreCompileInputs.cache
+C:\Users\jhonj\source\repos\CoffeeShop(DataStracture)\CoffeeShop(DataStracture)\obj\Debug\CoffeeShop(DataStracture).exe
+C:\Users\jhonj\source\repos\CoffeeShop(DataStracture)\CoffeeShop(DataStracture)\obj\Debug\CoffeeShop(DataStracture).xml
+C:\Users\jhonj\source\repos\CoffeeShop(DataStracture)\CoffeeShop(DataStracture)\obj\Debug\CoffeeShop(DataStracture).pdb
+C:\Users\jhonj\source\repos\CoffeeShop(DataStracture)\CoffeeShop(DataStracture)\obj\Debug\CoffeeShop_DataStracture_.OrderHistory.resources
+C:\Users\jhonj\source\repos\CoffeeShop(DataStracture)\CoffeeShop(DataStracture)\obj\Debug\CoffeeShop_DataStracture_.PendingOrders.resources
+C:\Users\jhonj\source\repos\CoffeeShop(DataStracture)\CoffeeShop(DataStracture)\obj\Debug\CoffeeShop_DataStracture_.CustomerQueues.resources
